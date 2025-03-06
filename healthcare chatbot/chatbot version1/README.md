@@ -85,4 +85,3 @@ Take the following measures:
 - *Text-to-Speech*: Use pyttsx3 to read out predictions and precautions.
 - *Deploy*: Deploy the chatbot as a web application using FastAPI or Flask.
 
----
